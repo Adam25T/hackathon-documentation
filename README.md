@@ -27,7 +27,7 @@ Now you should be able to build all the files. Follow the instructions in [Buidl
 We will be focusing targeting issues marked with the **up-for-grabs**, **easy**, and **increase-code-coverage**. These issues are generally the simplest and most straight forward. 
 [Picking an issue](https://github.com/dotnet/corefx/wiki/Pick-issue).
 
-**Note** - For increasing code coverage cards you don't need to creat a ton of tests and effectively complete the issue. They accept even small contributions to increase code coverage by a little bit.
+**Note** - For increasing code coverage you don't need to create a ton of tests and effectively complete the issue. They accept even small contributions to increase code coverage by a little bit.
 
 ### Coding
 1. In your fork create a branch off of the most up to date master branch to do your work in. Make your branch a name that effectively communicates your intent. Look at [completed pull requests for examples](https://github.com/dotnet/corefx/pulls?q=is%3Apr+is%3Aclosed).
