@@ -47,8 +47,7 @@ Currently debugging in visual studio is not working with the project after build
 [Coverage Document](https://github.com/dotnet/corefx/blob/master/Documentation/building/code-coverage.md)
 
 ### Documentation
-Here are other docs and references
-https://github.com/dotnet/corefx/tree/master/Documentation#coding-guidelines
+[Here are other docs and references](https://github.com/dotnet/corefx/tree/master/Documentation#coding-guidelines).
 
 
 
