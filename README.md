@@ -1,5 +1,7 @@
-# hackathon-documentation
-Here are some resources and guidelines for contributing to CoreFX                                                                        
+# Hackathon-Documentation
+Welcome! Contributing to open source can be daunting especially to such a large effort like .NET Core. Here are some things to get you started. Don't be afraid to ask the curators of the projects questions and get involved in discussion. They are quite prompt in responding and are always polite. Feel free to poke around the code, pull requests, issues, and discussions to further familiarize yourself with the open source environment. 
+
+
 ### Getting Started with CoreFX
 Overall information for working on the project can be found [here](https://diaryofadev.net/getting-started-contributing-to-corefx/).
 
@@ -43,6 +45,10 @@ Currently debugging in visual studio is not working with the project after build
 
 ### Code Coverage
 [Coverage Document](https://github.com/dotnet/corefx/blob/master/Documentation/building/code-coverage.md)
+
+### Documentation
+Here are other docs and references
+https://github.com/dotnet/corefx/tree/master/Documentation#coding-guidelines
 
 
 
