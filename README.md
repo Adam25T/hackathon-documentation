@@ -35,7 +35,7 @@ We will be focusing targeting issues marked with the **up-for-grabs**, **easy**,
 3. In Visual Studio open that librarys solution file.
 4. Add code and tests to work on the issue.
 5. Commit your work to your branch. Generally you don't want to commit something that doesn't work.
-6. Repeate 4 and 5 until complete.
+6. Repeat 4 and 5 until complete.
 7. When you feel completed your work [**create a pull request**](https://github.com/dotnet/corefx/wiki/Creating-a-Pull-Request) and wait for feedback.
 
 This repository coding style uses "Visual Studio defaults". The coding style guide can be found [here](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md). You can also see correctly formatted code in the pull requests that have been completed.
